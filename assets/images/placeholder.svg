@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs><style>.a{fill:#0f172a}.b{fill:#1f2937}.t{font:700 44px/1.2 Arial;fill:#e5e7eb}.s{font:400 20px/1.2 Arial;fill:#9ca3af}</style></defs>
+  <rect class="a" width="1200" height="675" rx="24" ry="24"/>
+  <rect class="b" x="40" y="40" width="1120" height="595" rx="20" ry="20"/>
+  <text class="t" x="600" y="330" text-anchor="middle">Your Image Here</text>
+  <text class="s" x="600" y="370" text-anchor="middle">Replace under assets/images/</text>
+</svg>

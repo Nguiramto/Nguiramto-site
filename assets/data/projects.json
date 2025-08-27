@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "title": "Smart Attendance System",
+      "description": "Face recognition attendance with Python + Flask.",
+      "tech": [
+        "Python",
+        "OpenCV",
+        "Flask",
+        "SQLite"
+      ],
+      "repo": "https://github.com/yourusername/smart-attendance",
+      "demo": "",
+      "docs": "",
+      "image": "assets/images/placeholder.svg"
+    },
+    {
+      "title": "Portfolio Website",
+      "description": "This website \u2014 responsive & fast.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "repo": "https://github.com/yourusername/portfolio",
+      "demo": "https://yourusername.github.io/portfolio/",
+      "docs": "",
+      "image": "assets/images/placeholder.svg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "title": "Beat Pack Vol. 1",
+      "description": "10 high\u2011quality beats. Royalty\u2011free.",
+      "tags": [
+        "WAV",
+        "HQ",
+        "Royalty\u2011free"
+      ],
+      "price": "$19",
+      "buy": "https://buy.stripe.com/your-payment-link",
+      "image": "assets/images/placeholder.svg"
+    },
+    {
+      "title": "Website Template",
+      "description": "Tech + Music template files.",
+      "tags": [
+        "HTML",
+        "CSS",
+        "JS"
+      ],
+      "price": "$9",
+      "buy": "https://buy.stripe.com/your-payment-link",
+      "image": "assets/images/placeholder.svg"
+    }
+  ]
+}
